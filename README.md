@@ -1,4 +1,4 @@
-<img width="100%" >https://img1.akspic.ru/attachments/crops/0/8/2/0/80280/80280-elektronika-tehnologia-tehnologii-prisposoblenie-gadzhet-2560x1440.jpg</img>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <h1 align="center">Hi 👋, I'm Alimov Shoxrux</h1>
 <h3 align="center">Step into the world of frontend development with the latest technologies 👨‍💻</h3>
 <img  align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/81809211/160313931-dcf2e5a1-fcb1-4260-9b99-8a43a95b76b4.gif"
