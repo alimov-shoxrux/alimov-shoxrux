@@ -3,7 +3,7 @@
 <h3 align="center">Step into the world of frontend development with the latest technologies 👨‍💻</h3>
 <img  align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/81809211/160313931-dcf2e5a1-fcb1-4260-9b99-8a43a95b76b4.gif"
 
-- 👨‍💻 All of my projects are available at [https://portfolio-alimov.vercel.app/](https://portfolio-alimov.vercel.app/)
+ 👨‍💻 All of my projects are available at [https://portfolio-alimov.vercel.app/](https://portfolio-alimov.vercel.app/)
 
 - 📝 I regularly write articles on [https://t.me/developer_alimov](https://t.me/developer_alimov)
 
