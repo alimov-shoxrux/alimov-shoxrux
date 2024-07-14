@@ -1,4 +1,3 @@
-.[![MasterHead],(https://1.bp.blogpost.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bLsYgrwGbllhSu2SDj_Mig8SXJQCLcBGasYHQ/s1600/2000_600px.gif)2000_600px.gif).].(https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alimov Shoxrux</h1>
 <h3 align="center">Hello developer, My name is Shohruh . I'am happy to see you . Continue to check out my work 👨‍💻</h3>
 <img  align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/81809211/160313931-dcf2e5a1-fcb1-4260-9b99-8a43a95b76b4.gif"
